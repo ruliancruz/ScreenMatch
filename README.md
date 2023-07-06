@@ -1,4 +1,4 @@
 # ScreenMatch
-Sistema CRUD de cadastro de filmes feito em Java Spring com Thymeleaf e persistencia de dados em MySQL usando JPA.
+CRUD film registration system made in Java Spring with Thymeleaf and data persistence in MySQL using JPA.
 
-Projeto feito para o curso "Java e Spring: desenvolva sua primeira aplicação Web Java e Spring: desenvolva sua primeira aplicação Web" da Alura.
+Project made for the course "Java and Spring: develop your first Web application Java and Spring: develop your first Web application" by Alura.
